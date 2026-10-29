@@ -1,6 +1,3 @@
-;   do not skid with this src!
-;   this src was created entirely by nk. If u want to use this src, plz enter credit
-
 org 7C00h
 
 start:
