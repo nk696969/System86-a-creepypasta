@@ -1,9 +1,3 @@
-ソースコードは人に見せる用として制作していないためとても散らかっていて汚いです
-and if this src causes damage to ur computer, all you own risk!
-
-this program refers to Clutter's TUTORIAL
-このプログラムはClutterさんのTUTORIALを参考にしています
-
 link:
 https://www.youtube.com/@ClutterTech
 https://www.youtube.com/@clutter1952
