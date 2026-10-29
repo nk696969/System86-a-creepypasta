@@ -265,27 +265,6 @@ namespace INT86x
 
         }
 
-        private void button1_MouseMove(object sender, MouseEventArgs e)
-        {
-
-        }
-
-        private void button1_MouseLeave(object sender, EventArgs e)
-        {
-            //this.shake_button.Stop();
-
-        }
-
-        private void done_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void shake_Tick(object sender, EventArgs e)
         {
             int deltaX = random.Next(-1, 2);
