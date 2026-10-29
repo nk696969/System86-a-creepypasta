@@ -1,6 +1,3 @@
-/* ソースコードは人に見せる用として制作していないためとても散らかっていて汚いです */
-/* and if this src causes damage to ur computer, all you own risk! */
-
 using System;
 using System.Drawing;
 using System.IO;
